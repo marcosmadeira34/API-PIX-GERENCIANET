@@ -1,6 +1,6 @@
 from flask import request
 from server.instance import server
-from flask_restplus import Resource
+from flask_restx import Resource
 
 
 # utilizando instancia do servee para definir rota dos recursos
